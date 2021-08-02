@@ -8,4 +8,5 @@ publish = ["crates-io"]
 
 [dependencies]
 derive_more = "0.99.16"
+num = "0.4.0"
 thiserror = "1.0.26"
